@@ -1,6 +1,7 @@
 <img width="2184" height="1265" alt="Snipaste_2026-09-26_20-15-58" src="https://github.com/user-attachments/assets/d9111a32-1f63-4db9-80b5-726b43fd7ed1" /># Wallpaper Cleaner Fixed v2026.9.26
 
 Wallpaper Engine 壁纸订阅管理/清理工具（修复增强版，基于 ecokayiza/Wallpaper_Manager v2.3）
+原项目：[ecokayiza/Wallpaper_Manager](https://github.com/ecokayiza/Wallpaper_Manager)
 
 ## ✨ 本次更新（相比原版）
 - ✅ 修复壁纸列表不显示：正确的 Steam 路径识别（原版默认指向不存在的路径）
