@@ -1,4 +1,4 @@
-# Wallpaper Cleaner Fixed v2026.9.26
+<img width="2184" height="1265" alt="Snipaste_2026-09-26_20-15-58" src="https://github.com/user-attachments/assets/d9111a32-1f63-4db9-80b5-726b43fd7ed1" /># Wallpaper Cleaner Fixed v2026.9.26
 
 Wallpaper Engine 壁纸订阅管理/清理工具（修复增强版，基于 ecokayiza/Wallpaper_Manager v2.3）
 
@@ -11,7 +11,8 @@ Wallpaper Engine 壁纸订阅管理/清理工具（修复增强版，基于 ecok
 - ✅ 单文件 exe，config.json 放在 exe 旁边即可编辑
 
 ## 📸 截图
-![主界面截图]()
+![Uploading Snipaste_2026-09-26_20-15-58.png…]
+
 
 ## 🚀 使用方式
 1. 双击 exe 运行，浏览器自动打开 http://127.0.0.1:6500
